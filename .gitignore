@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+out/
+*.tif
+*.tiff
+# Paper ICC profiles are licensed per vendor; keep them local
+presets/*.icc
+presets/*.icm
+# Your own presets and driver captures are machine-specific
+presets/local/
+*.devmode.json

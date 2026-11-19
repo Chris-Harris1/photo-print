@@ -1,0 +1,16 @@
+{
+  "name": "Example · 8x10 on Letter · gallery",
+  "paper_w": 8.5,
+  "paper_h": 11,
+  "image_w": 8,
+  "image_h": 10,
+  "placement": "gallery",
+  "gallery_bottom_ratio": 0.6,
+  "min_margin": 0.125,
+  "ppi": 300,
+  "icc_profile": null,
+  "intent": "relative",
+  "black_point_compensation": true,
+  "devmode": null,
+  "notes": "Copy this file per paper. Set icc_profile to your paper's .icc (relative paths resolve from this folder) and devmode after running capture-devmode."
+}

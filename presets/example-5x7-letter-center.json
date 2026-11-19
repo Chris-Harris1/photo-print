@@ -1,0 +1,14 @@
+{
+  "name": "Example · 5x7 on Letter · centred",
+  "paper_w": 8.5,
+  "paper_h": 11,
+  "image_w": 5,
+  "image_h": 7,
+  "placement": "center",
+  "min_margin": 0.125,
+  "ppi": 300,
+  "icc_profile": null,
+  "intent": "relative",
+  "black_point_compensation": true,
+  "devmode": null
+}
